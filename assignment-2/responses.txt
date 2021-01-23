@@ -1,0 +1,5 @@
+The world wide web are the pages you see when you're online while the internet is a shared network between computers that the world wide web lives on.
+Computers are connected to routers to connect to other computers, then the routers are connected to other routers which other computers are connected to. These routers are then connected to modems which brings the internet in through the telephone wires using the internet service providers.
+A directory is a catalog of its files and those files own subdirectories.
+VCS allows for the viewing of all previous "versions" of a file to easily view progress.
+Photography is my favorite art.
