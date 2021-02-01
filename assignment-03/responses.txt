@@ -1,0 +1,5 @@
+1. I enjoy visiting Twitter, Instagram, and streaming NBA games.
+2. An IP address are the addresses for different individuals, but someone can essentially host a DNS at their IP address to create a website.
+3. Cookies are small text files that are stored on your computer's browser directory.
+ 4. The protocol, domain name, and the path.
+ 5. 
