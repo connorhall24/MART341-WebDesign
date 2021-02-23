@@ -1,0 +1,3 @@
+Each page has 1 head and 1 body element. The head will contain essentially all the background information and meta data about the website, while the body will contain what is presented to viewers
+Structural markup sets up the architecture of the page, while the semantic markup can change how the text is displayed in that structure to enforce meanings of the text.
+I had some challenges this week involving my new job. I started working at Frugal's and it has been good, but this past week our drive thru speaker broke and the General Manager quit, so it got pretty hectic. I think I did good, considering the circumstances. I just had to work harder and learn new positions quickly, and I am now almost fully trained.
