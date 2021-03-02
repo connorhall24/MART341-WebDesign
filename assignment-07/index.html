@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="This is a page about Rockin Rudy's, your one stop shop for all knicknacks">
+    <meta name="author" content="Connor Hall">
+    <meta name="viewport" content="width=device-width, initial scale 1.0">
+    <title>
+      Rockin Rudy's
+    </title>
+  </head>
+      <style>
+          table, th, td {
+              border: 1px solid black;
+              padding: 5px;
+          }
+          </style>
+  <body>
+    <h1>Rockin Rudy's</h1>
+    <img src="images/Rockin-Rudy's.jpg" alt="Rockin Rudy's crazy logo" title="Rockin Rudy's" width="400" height="400"/>
+    <address>
+      237 Blaine St<br />
+      Missoula, MT<br / >
+      59801<br />
+      (406) 542-0077
+    </address>
+    <a href="mailto:connor1.hall@umontana.edu?subject=feedback">Email me</a>
+    <table>
+      <tr>
+        <th></th>
+        <th scope="col">Hours</th>
+      </tr>
+      <tr>
+        <th scope="row">Monday-Saturday</th>
+        <td>9 AM - 9 PM</td>
+      </tr>
+      <tr>
+        <th scope="row">Sundays</th>
+        <td>11 AM - 6 PM</td>
+      </tr>
+    </table>
+    <form action="index.html" method="post" id="Q's" class="basic-forms">
+      <br />
+      <p>Name
+      <input type="Text" name="Name" id="text" placeholder="First Last">
+      </p>
+      <p>Have you shopped at Rockin Rudy's?</p>
+      <input type="radio" name="yes/no" value="yes"> Yes
+      <input type="radio" name="yes/no" value="no"> No
+      <br />
+      <p>Store Suggestions:
+      <textarea name="suggestions" id="textarea">Enter up to 500 characters...</textarea>
+    </p>
+      <input type="submit" name="submit" value="Submit">
+    </form>
+  </body>
+</html>
