@@ -1,0 +1,3 @@
+1. Universal selectors apply a style to every element on a page, the element selector selects all elements of a certain type, class selectors are best used to select elements that serve the same function, and ID selectors allows developers to define style rules for a specific style element by using its unique ID
+2. I chose 3 darker colors that are seen in a lot of retro themed art. The hex codes for these are #b252a1, #2c0452, and #dcd5d5.
+3. This week, I had to prepare for visitors at my house. My roommates mom came up to visit, and my renters also came by so we can start renewing our lease. It was very stressful, but we cleaned up good and our visitors were impressed.

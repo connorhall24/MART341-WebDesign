@@ -1,0 +1,24 @@
+
+*{
+  font-family: Arial;
+  background-color: #dcd5d5
+}
+/*I am hoping that these colors will complement each other and not look completely horrible*/
+h1{
+  color: #b252a1;
+  font-size: 50px;
+  align: center
+}
+body{
+  opacity: .90;
+  text-align: center;
+}
+p{
+  color: #2c0452;
+  text-align: center;
+}
+img{
+  position: relative;
+  text-align: center;
+}
+/*As I am making this, the style isn't showing up when I show the index.html in my browser. Hope it ends up working!*/
