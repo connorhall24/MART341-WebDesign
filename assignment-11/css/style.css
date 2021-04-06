@@ -1,0 +1,16 @@
+h1{
+  font-family: 'Roboto';
+  font-size: 30px;
+  text-align: center;
+  font-style: Bold
+}
+.commentary{
+  font-family: 'Roboto';
+  text-align: center;
+  font-style: normal;
+}
+.quotation{
+  font-family: 'Monteserrat';
+  text-align: center;
+  font-style: normal;
+}
