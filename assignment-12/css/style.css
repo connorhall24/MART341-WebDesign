@@ -1,0 +1,32 @@
+*{
+  font-family: Arial;
+  background-color: #394d6d
+}
+h1{
+  text-align: center;
+  color: #FFFFFF
+}
+.img{
+  position: relative;
+  left: 450px;
+  display: inline-block;
+  float: none;
+}
+.Description{
+  color: #FFFFFF;
+  width:100% ;
+    height:50% ;
+    border:2px solid #FFFFFF;
+    padding:1em;
+    margin:2em ;
+    overflow: visible;
+}
+.Review{
+  color: #FFFFFF;
+  width:100% ;
+    height:50% ;
+    border:2px solid #FFFFFF;
+    padding:1em ;
+    margin:2em ;
+    overflow: visible;
+}
