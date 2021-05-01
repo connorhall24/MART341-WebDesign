@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Cairo' ;
+  src:url('../fonts/Cairo-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Cairo' ;
+  src:url('../fonts/Cairo-Bold.ttf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Cairo' ;
+  src:url('../fonts/Cuiro-Light.ttf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Rubik' ;
+  src:url('../fonts/Rubik-VariableFont_wght.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Rubik' ;
+  src:url('../fonts/Rubik-Italic-VariableFont_wght.ttf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}

@@ -1,0 +1,3 @@
+1. I came into this course with no idea how coding even worked, and I feel like I learned so much. I learned how to structure and make a functioning, decent looking websites, even though it was quite the struggle.
+2. I learned how to find complementary fonts and colors, which has never been in my realm.
+3. I struggled a lot with css once it was integrated. It is hard for me to understand how to place things exactly where I want them. This is how a majority of my time was spent on the last assignment. It is just hard to envision and execute a good looking website without help from the internet.

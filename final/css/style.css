@@ -1,0 +1,44 @@
+
+*{
+  font-family: 'Rubik', sans-serif;
+  background-color: #8d9798;
+}
+h1{
+  font-family: 'Cairo', sans-serif;
+}
+h2{
+  font-family: 'Cairo', sans-serif;
+  text-align: center;
+}
+.TITLE{
+  background-color: #dbe3ff;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 100px
+}
+.Navigation{
+  background-color: #f46161;
+  position: sticky;
+  border: 4px solid black;
+  border-radius: 300px;
+}
+.Navigation-item:hover {
+  background color:#f46161;
+  color:#66646b;
+}
+ul{
+   width: 100%;
+   display: table;
+   text-align: center;
+}
+ul li{
+     display: inline-block;
+     float: none;
+}
+.Home-paragraph{
+  text-align: center;
+}
+.Gallery{
+  display: inline-block;
+  text-align: center;
+}
